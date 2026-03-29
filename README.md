@@ -26,5 +26,7 @@ Target variable:
 ## Models Used
 
 - Logistic Regression
-- Decision Tree Classifier
 - Random Forest Classifier
+
+## Scenario
+This project simulates a real-world marketing analytics case in which an e-commerce company wants to predict which customers are most likely to convert after interacting with a campaign. The workflow includes preprocessing, feature selection, model tuning, and business-oriented interpretation of results.
