@@ -28,5 +28,7 @@ Target variable:
 - Logistic Regression
 - Random Forest Classifier
 
+We started with Logistic Regression as an interpretable baseline and then compared it with Random Forest to evaluate whether a more flexible model could improve predictive performance.
+
 ## Scenario
 This project simulates a real-world marketing analytics case in which an e-commerce company wants to predict which customers are most likely to convert after interacting with a campaign. The workflow includes preprocessing, feature selection, model tuning, and business-oriented interpretation of results.
